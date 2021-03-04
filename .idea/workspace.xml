@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c1f05bc-b1a3-4caa-bfd7-662143198299" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\apache-maven-3.6.1\maven_repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pHToSO8LdWHmXWGEGzVClgR4id" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RedissionLockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="distributed_lock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haoqian.redission_lock.RedissonLockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1f05bc-b1a3-4caa-bfd7-662143198299" name="Default Changelist" comment="" />
+      <created>1614839190832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614839190832</updated>
+      <workItem from="1614839195054" duration="11879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2915" y="182" width="390" height="664" key="#com.intellij.ide.util.MemberChooser" timestamp="1614846091823">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2915" y="182" width="390" height="664" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614846091823" />
+    <state x="2570" y="242" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1614841120789">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2570" y="242" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614841120789" />
+    <state width="1877" height="360" key="GridCell.Tab.0.bottom" timestamp="1614854997148">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195837" />
+    <state width="1877" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997148" />
+    <state width="1877" height="360" key="GridCell.Tab.0.center" timestamp="1614854997148">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195837" />
+    <state width="1877" height="360" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997148" />
+    <state width="1877" height="360" key="GridCell.Tab.0.left" timestamp="1614854997147">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195837" />
+    <state width="1877" height="360" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997147" />
+    <state width="1877" height="360" key="GridCell.Tab.0.right" timestamp="1614854997148">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195837" />
+    <state width="1877" height="360" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997148" />
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195606" />
+    <state width="1877" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.1.center" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195603" />
+    <state width="1877" height="360" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.1.left" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195603" />
+    <state width="1877" height="360" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.1.right" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195605" />
+    <state width="1877" height="360" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.2.bottom" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195609" />
+    <state width="1877" height="360" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.2.center" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195607" />
+    <state width="1877" height="360" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.2.left" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195607" />
+    <state width="1877" height="360" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state width="1877" height="360" key="GridCell.Tab.2.right" timestamp="1614854997149">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="360" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850195608" />
+    <state width="1877" height="360" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997149" />
+    <state x="2360" y="94" key="SettingsEditor" timestamp="1614841685631">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614841685631" />
+    <state x="671" y="12" width="1236" height="1027" key="dock-window-1" timestamp="1614841047270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="12" width="1236" height="1027" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614841047270" />
+    <state x="2043" y="0" width="946" height="717" maximized="true" key="dock-window-2" timestamp="1614854997242">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2043" y="0" width="946" height="717" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614850189157" />
+    <state x="2043" y="0" width="946" height="717" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614854997242" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614841471336">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614841471336" />
+  </component>
+</project>
