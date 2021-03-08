@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class TestController {
 
     /**
-     * lock 会阻塞知道获取到锁
+     * lock 会阻塞直到获取到锁
      */
     @GetMapping("/testLock1")
     public void testLock1() {

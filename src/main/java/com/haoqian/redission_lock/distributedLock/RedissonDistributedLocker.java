@@ -17,10 +17,6 @@ public class RedissonDistributedLocker implements DistributedLocker {
         this.redissonClient = redissonClient;
     }
 
-    public void setRedissonClient(RedissonClient redissonClient) {
-        this.redissonClient = redissonClient;
-    }
-
     @Override
     public void lock(String lockKey) {
         RLock lock = redissonClient.getLock(lockKey);
