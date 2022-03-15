@@ -49,6 +49,7 @@ public class TestController {
 
                     try {
                         boolean result = RedissonLockUtil.tryLock("Lock:lock2", 3, 2, TimeUnit.SECONDS);
+
                         System.out.println(LocalTime.now() + "---" + Thread.currentThread().getName() + "是否获取到锁" + result);
                     } catch (Exception e) {
                         e.printStackTrace();
@@ -78,7 +79,7 @@ public class TestController {
                         e.printStackTrace();
                     } finally {
                         RedissonLockUtil.unlock("RedissonLock");
-                        // RedissonLockUtil.unlock("RedissonLock");
+                        RedissonLockUtil.unlock("RedissonLock");
                         System.out.println(LocalTime.now() + "---" + Thread.currentThread().getName() + "释放锁");
                     }
 

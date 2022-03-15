@@ -14,8 +14,7 @@
 
 redisson:
   # 单机
-  address: 127.0.0.1:6931
-  password: aaaaaa
+  address: 127.0.0.1:6379
   database: 10
 
 #  # 哨兵集群
